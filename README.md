@@ -11,7 +11,7 @@ I'm a staff software engineer based in Yucatán, Mexico. Most of my work has bee
 I've been working in software since 2015. Along the way I've led development work, supported SDK integrations, mentored developers, and created learning material for software engineering students.
 
 <p>
-  <a href="https://www.linkedin.com/in/cross-platform-developer-expert/">LinkedIn ↗</a>
+  <a href="https://linkedin.com/in/joshuaegonzalezruiz">LinkedIn ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://formulift.app/">Formulift ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
