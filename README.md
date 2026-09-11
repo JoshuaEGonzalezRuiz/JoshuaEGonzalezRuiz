@@ -6,13 +6,9 @@
 
 # Joshua González
 
-**Software engineer · University professor**
+I'm a staff software engineer based in Yucatán, Mexico. Most of my work has been around mobile and web products, with a strong focus on Flutter and cross-platform development. I also teach software engineering at university.
 
-I build dependable products, developer tools, and practical learning systems.
-
-<sub>10+ years in IT · Yucatán, Mexico · Local-first by design</sub>
-
-*Build with care. Teach what you learn. Keep the system replaceable.*
+I've been working in software since 2015. Along the way I've led development work, supported SDK integrations, mentored developers, and created learning material for software engineering students.
 
 <p>
   <a href="https://www.linkedin.com/in/cross-platform-developer-expert/">LinkedIn ↗</a>
@@ -22,34 +18,44 @@ I build dependable products, developer tools, and practical learning systems.
   <a href="https://github.com/JoshuaEGonzalezRuiz?tab=repositories">Repositories</a>
 </p>
 
-## Selected work
+## Projects
 
 > **[Formulift ↗](https://formulift.app/)**  
-> Personalized 12-week training plans and Excel-compatible spreadsheets, created locally in the browser. No signup; your data stays on your device.
+> A web app for creating personalized 12-week training plans and Excel-compatible spreadsheets. It runs entirely in the browser, without accounts or server-side storage.
 
 > **AASSE**  
-> Provider-neutral orchestration for reliable AI-assisted software delivery, with explicit roles, controlled execution, and verifiable evidence.
+> A project I'm building to explore reliable, provider-neutral orchestration for AI-assisted software development.
 
 > **ExotiTrack**  
-> Reptile care and feeder-colony management designed to remain fast and useful offline.
+> A Flutter app for managing reptile care and feeder colonies, designed to keep working offline.
 
 > **University automation**  
-> Practical systems for assessment, course delivery, attendance, and student feedback.
+> Small tools and workflows that help me manage assessment, course delivery, attendance, and student feedback.
 
-## How I work
+## How I like to work
 
-- **Make failure understandable.** Clear contracts and reproducible workflows make systems easier to trust.
-- **Keep data close to the people who own it.** I use local-first patterns when they improve privacy and resilience.
-- **Leave room to change tools.** Providers and frameworks are dependencies—not the foundation of the product.
-- **Teach what I can explain clearly.** Teaching is part of how I test my own engineering decisions.
+I care more about software being understandable and reliable than about using the newest tool. I tend to favor clear contracts, replaceable dependencies, and workflows that make failures easier to diagnose.
 
-## Tools I reach for
+I use local-first patterns when they make a product faster, more private, or more resilient—not as a rule for every project. Teaching also influences the way I work: if I cannot explain a decision clearly, it usually needs another pass.
 
-**Products** — Flutter · Dart · React · C# · Python  
-**Data & systems** — PostgreSQL · SQLite · Docker · Linux · GitHub Actions
+## Technologies
+
+**Most often** — Flutter · Dart · JavaScript/TypeScript · React · Python  
+**I have also worked with** — Cordova · Vue · Java · Kotlin · Swift · C# · Firebase · HERE SDK/APIs  
+**Data and delivery** — PostgreSQL · SQLite · Docker · Linux · GitHub Actions
+
+## Education
+
+- Master's in Project Management and Software Engineering — UTEL University, 2024
+- BEng in Information Technology Management — Universidad Mesoamericana de San Agustín, 2019
+
+## Certifications
+
+- Learning the OWASP Top 10
+- JavaScript: Security Essentials
+- Programming Foundations: Secure Coding
+- Scrum Práctico en Proyectos de Software
 
 ---
 
-<p align="center">
-  <sub>Yucatán, Mexico 🇲🇽 · Homelabbing · Exotic pets · Family garden · Strength training</sub>
-</p>
+Outside work, I spend time on my homelab, care for exotic pets, help with the family garden, and do strength training.
