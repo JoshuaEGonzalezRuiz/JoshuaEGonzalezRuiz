@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/profile-header-mobile-dark.svg">
+  <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="./assets/profile-header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
   <img src="./assets/profile-header-light.svg" alt="Joshua González — Software Engineer and University Professor" width="100%">
