@@ -1,12 +1,20 @@
 <picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/profile-header-mobile-dark.svg">
-  <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="./assets/profile-header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img src="./assets/profile-header-light.svg" alt="Joshua González — Software Engineer and University Professor" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-accent-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-accent-light.svg">
+  <img src="./assets/profile-accent-light.svg" alt="" width="100%">
 </picture>
 
-<p align="center">
+# Joshua González
+
+**Software engineer · University professor**
+
+I build dependable products, developer tools, and practical learning systems.
+
+<sub>10+ years in IT · Yucatán, Mexico · Local-first by design</sub>
+
+*Build with care. Teach what you learn. Keep the system replaceable.*
+
+<p>
   <a href="https://www.linkedin.com/in/cross-platform-developer-expert/">LinkedIn ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://formulift.app/">Formulift ↗</a>
